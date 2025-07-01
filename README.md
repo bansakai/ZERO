@@ -1,4 +1,4 @@
-![Banner](https://github.com/bansakai/ZERO/blob/main/Resources/ZERO%204k.png)
+<img src="https://github.com/bansakai/ZERO/blob/main/Resources/BannerLogoNoSpace.png" width="500" />
 # Welcome to EFT: ZERO
 
 ### Before you Start:
