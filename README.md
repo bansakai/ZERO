@@ -13,12 +13,13 @@
 4. Once complete, navigate to where you just installed SPT.
 5. Delete ALL FILES except for `EscapeFromTarkov_Data` folder, and `EscapeFromTarkov.exe`
 6. Open `EFT ZERO.7z` using 7-Zip, and move all files to the root of your SPT location. It should look like the **Structure** below.
-5. Enter the exact name you use in the Discord, click `Register`
-6. If you get a message saying `User Doesn't Exist...` - you entered the wrong name. If so, click `No` and look at **Active Profiles.**
-6. Once logged in, click the Settings icon, then `Clear Cache` at the top.
-7. In Settings under `Game Path` - choose the location you installed SPT.
-8. Now click the arrow in the top right to save.
-9. Click `Start Game`
+7. Start `ZERO.exe`
+8. Enter the exact name you use in the Discord, click `Register`
+9. If you get a message saying `User Doesn't Exist...` - you entered the wrong name. If so, click `No` and look at **Active Profiles.**
+10. Once logged in, click the Settings icon, then `Clear Cache` at the top.
+11. In Settings under `Game Path` - choose the location you installed SPT.
+12. Now click the arrow in the top right to save.
+13. Click `Start Game`
 
 You are now loading into **EFT: ZERO**
 
