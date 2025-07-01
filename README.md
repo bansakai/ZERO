@@ -30,4 +30,4 @@ You are now loading into **EFT: ZERO**
 - 'jinx'
 
 ### Structure:
-<img src="https://gitfront.io/r/bansakai/em1m9ZL7VfDC/ZERO/blob/Resources/Structure.png" width="500" /><br>
+<img src="https://gitfront.io/r/bansakai/em1m9ZL7VfDC/ZERO/raw/Resources/Structure.png" width="500" /><br>
