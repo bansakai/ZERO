@@ -12,9 +12,11 @@
 3. Open `Installer.exe` and follow the instructions.
 4. Once complete, navigate to where you just installed SPT.
 5. **Remove all files** except for `EscapeFromTarkov_Data` folder, and `EscapeFromTarkov.exe`. What you are left with:
-![Remaining Files](https://gitfront.io/r/bansakai/em1m9ZL7VfDC/ZERO/raw/Resources/Remains.png)
+<img src="https://gitfront.io/r/bansakai/em1m9ZL7VfDC/ZERO/raw/Resources/Remains.png" width="500" />
+
 6. Now, open `EFT ZERO.7z` using 7-Zip and move all included files in place of the ones you deleted. It should look like the structure below:
-![Structure](https://gitfront.io/r/bansakai/em1m9ZL7VfDC/ZERO/raw/Resources/Structure.png)
+<img src="https://gitfront.io/r/bansakai/em1m9ZL7VfDC/ZERO/raw/Resources/Structure.png" width="500" />
+
 7. Start `ZERO.exe`
 8. Enter the name that you use in the Discord exactly, click `Register`
 9. If you get a message saying `User Doesn't Exist...` you entered the wrong name. If so, click `No` and look at **Active Profile Logins.**
