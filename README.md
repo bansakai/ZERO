@@ -11,8 +11,13 @@
 2. Download the Mod from [here.](https://syncade.gg/zero)
 3. Open `Installer.exe` and follow the instructions.
 4. Once complete, navigate to where you just installed SPT.
-5. Delete ALL FILES except for `EscapeFromTarkov_Data` folder, and `EscapeFromTarkov.exe`
-6. Open `EFT ZERO.7z` using 7-Zip, and move all files to the root of your SPT location. It should look like the **Structure** below.
+5. **Remove all files** except for `EscapeFromTarkov_Data` folder, and `EscapeFromTarkov.exe`
+
+- What you are left with:<br>
+<img src="https://raw.githubusercontent.com/bansakai/ZERO/refs/heads/main/Resources/Remains.png?token=GHSAT0AAAAAADGL6EXNP53QLHVEPYVV7W6Y2DEJ6TQ" width="500" />
+<br>
+
+6. Now, open `EFT ZERO.7z` using 7-Zip and move all included files in place of the ones you deleted. It should look like the **Structure** below.
 7. Start `ZERO.exe`
 8. Enter the exact name you use in the Discord, click `Register`
 9. If you get a message saying `User Doesn't Exist...` - you entered the wrong name. If so, click `No` and look at **Active Profiles.**
@@ -32,3 +37,5 @@ You are now loading into **EFT: ZERO**
 
 ### Structure:
 <img src="https://gitfront.io/r/bansakai/em1m9ZL7VfDC/ZERO/raw/Resources/Structure.png" width="500" /><br>
+<img src="https://gitfront.io/r/bansakai/em1m9ZL7VfDC/ZERO/raw/Resources/Remains.png" width="500" /><br>
+
