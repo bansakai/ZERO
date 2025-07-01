@@ -3,7 +3,7 @@
 ### Before you Start:
 
 1. Ensure your Official Tarkov is installed and up-to-date!
-2. Install [7-Zip](https://www.7-zip.org/a/7z2409-x64.exe) if you haven't already.
+3. Install [7-Zip](https://www.7-zip.org/a/7z2409-x64.exe) if you haven't already.
 
 ### Installation:
 
@@ -11,16 +11,17 @@
 2. Download the Mod from [here.](https://syncade.gg/zero)
 3. Open `Installer.exe` and follow the instructions.
 4. Once complete, navigate to where you just installed SPT.
-5. **Remove all files** except for `EscapeFromTarkov_Data` folder, and `EscapeFromTarkov.exe`
-
-- What you are left with:<br>
-<img src="https://raw.githubusercontent.com/bansakai/ZERO/refs/heads/main/Resources/Remains.png?token=GHSAT0AAAAAADGL6EXNP53QLHVEPYVV7W6Y2DEJ6TQ" width="500" />
+5. **Remove all files** except for `EscapeFromTarkov_Data` folder, and `EscapeFromTarkov.exe`. What you are left with:
+<img src="<img src="https://gitfront.io/r/bansakai/em1m9ZL7VfDC/ZERO/raw/Resources/Remains.png" width="500" /><br>" width="500" />
 <br>
 
-6. Now, open `EFT ZERO.7z` using 7-Zip and move all included files in place of the ones you deleted. It should look like the **Structure** below.
+6. Now, open `EFT ZERO.7z` using 7-Zip and move all included files in place of the ones you deleted. It should look like the structure below:
+<img src="https://gitfront.io/r/bansakai/em1m9ZL7VfDC/ZERO/raw/Resources/Structure.png" width="500" />
+<br>
+
 7. Start `ZERO.exe`
 8. Enter the exact name you use in the Discord, click `Register`
-9. If you get a message saying `User Doesn't Exist...` - you entered the wrong name. If so, click `No` and look at **Active Profiles.**
+9. If you get a message saying `User Doesn't Exist...` you entered the wrong name. If so, click `No` and look at **Active Profiles.**
 10. Once logged in, click the Settings icon, then `Clear Cache` at the top.
 11. In Settings under `Game Path` - choose the location you installed SPT.
 12. Now click the arrow in the top right to save.
@@ -30,12 +31,7 @@ You are now loading into **EFT: ZERO**
 
 ### Active Profiles:
 
-- 'Bans'
-- 'TITS'
-- 'iBarly'
-- 'jinx'
-
-### Structure:
-<img src="https://gitfront.io/r/bansakai/em1m9ZL7VfDC/ZERO/raw/Resources/Structure.png" width="500" /><br>
-<img src="https://gitfront.io/r/bansakai/em1m9ZL7VfDC/ZERO/raw/Resources/Remains.png" width="500" /><br>
-
+- Bans
+- TITS
+- iBarly
+- jinx
