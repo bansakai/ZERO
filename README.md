@@ -1,10 +1,11 @@
-# Welcome to EFT:ZERO
+![Banner](https://github.com/bansakai/ZERO/blob/main/Resources/ZERO%204k.png)
+# Welcome to EFT: ZERO
 
 ### Before you Start:
 
 1. Ensure your Official Tarkov is installed and up-to-date!
 3. Install [7-Zip](https://www.7-zip.org/a/7z2409-x64.exe) if you haven't already.
-
+4. 
 ### Installation:
 
 1. Download the Installer from [here.](https://syncade.gg/spt)
