@@ -13,7 +13,7 @@
 2. Download the Mod from Discord under **#Download.**
 3. Open `Installer.exe` and follow the instructions.
 4. Once complete, navigate to where you just installed SPT.
-5. **Remove all files** except for `EscapeFromTarkov_Data` folder, and `EscapeFromTarkov.exe`. What you are left with:<br><br><img src="https://gitfront.io/r/bansakai/em1m9ZL7VfDC/ZERO/raw/Resources/Remains.png" width="500" /><br><br>
+5. **Remove all files** except for `EscapeFromTarkov_Data` folder, and `EscapeFromTarkov.exe.` You should be left with the following:<br><br><img src="https://gitfront.io/r/bansakai/em1m9ZL7VfDC/ZERO/raw/Resources/Remains.png" width="500" /><br><br>
 6. Now, open `EFT ZERO.7z` using 7-Zip and move all included files in place of the ones you deleted. It should look like the structure below:<br><br><img src="https://gitfront.io/r/bansakai/em1m9ZL7VfDC/ZERO/raw/Resources/Structure.png" width="500" /><br><br>
 7. Start `ZERO.exe`
 8. Enter the name that you use in the Discord exactly, click `Register`
