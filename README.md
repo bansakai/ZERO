@@ -10,7 +10,7 @@
 ### Installation:
 
 1. Download the Installer from [here.](https://syncade.gg/spt)
-2. Download the Mod from [here.](https://syncade.gg/zero) **Password available on Discord.**
+2. Download the Mod from [here.](https://syncade.gg/eft-zero) **Password available on Discord.**
 3. Open `Installer.exe` and follow the instructions.
 4. Once complete, navigate to where you just installed SPT.
 5. **Remove all files** except for `EscapeFromTarkov_Data` folder, and `EscapeFromTarkov.exe`. What you are left with:<br><br><img src="https://gitfront.io/r/bansakai/em1m9ZL7VfDC/ZERO/raw/Resources/Remains.png" width="500" /><br><br>
