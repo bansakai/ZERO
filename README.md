@@ -1,9 +1,10 @@
-<img src="https://github.com/bansakai/ZERO/blob/main/Resources/BannerLogoNoSpace.png" width="500" />
-# Welcome to EFT: ZERO
+<img src="https://github.com/bansakai/ZERO/blob/main/Resources/SmallBannerLogo.png" width="300" />
+
+____
 
 ### Before you Start:
 
-1. Ensure your Official Tarkov is installed and up-to-date!
+1. Ensure your Official Tarkov is installed and **up-to-date!**
 3. Install [7-Zip](https://www.7-zip.org/a/7z2409-x64.exe) if you haven't already.
 
 ### Installation:
