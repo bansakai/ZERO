@@ -2,6 +2,8 @@
 
 <br>
 
+[Video Tutorial](https://youtu.be/Q4M7mOi3hkA)
+
 ### Before you Start:
 
 1. Ensure your Official Tarkov is installed and **up-to-date!**
