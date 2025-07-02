@@ -33,7 +33,7 @@ Now you're ready to play **EFT: ZERO**
 
 ### Updates:
 
-1. Download the Mod itself from Discord under **#Download.**
+3. Download Latest Update from [here.](https://syncade.gg/zero/update)
 2. Drag entire Patch folder into game location, and open `update.bat.`
 3. Demonstration:<br><br>
 ![How to Update](https://github.com/bansakai/ZERO/blob/main/Resources/HowToUpdate.gif)
