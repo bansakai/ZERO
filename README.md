@@ -2,17 +2,16 @@
 
 <br>
 
-Video Tutorial on Discord
-
 ### Before you Start:
 
 1. Ensure your Official Tarkov is installed and **up-to-date!**
-3. Install [7-Zip](https://www.7-zip.org/a/7z2409-x64.exe) if you haven't already.
+2. Install [7-Zip](https://www.7-zip.org/a/7z2409-x64.exe) if you haven't already.
+3. Theres also a Video Tutorial on Discord if needed.
 
 ### Installation:
 
 1. Download the Installer from [here.](https://syncade.gg/spt)
-2. Download the Mod itself from Discord under **#Update.**
+2. Download the Base Mod from Discord under **#Update.**
 3. Download Latest Update from [here.](https://syncade.gg/zero/update)
 4. Open `Installer.exe` and follow the instructions.
 5. Once complete, navigate to where you just installed SPT.
