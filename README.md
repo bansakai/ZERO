@@ -12,7 +12,7 @@ Video Tutorial on Discord
 ### Installation:
 
 1. Download the Installer from [here.](https://syncade.gg/spt)
-2. Download the Mod itself from Discord under **#Download.**
+2. Download the Mod itself from Discord under **#Update.**
 3. Download Latest Update from [here.](https://syncade.gg/zero/update)
 4. Open `Installer.exe` and follow the instructions.
 5. Once complete, navigate to where you just installed SPT.
