@@ -2,7 +2,7 @@
 
 <br>
 
-[Video Tutorial](https://youtu.be/Q4M7mOi3hkA)
+Video Tutorial on Discord
 
 ### Before you Start:
 
