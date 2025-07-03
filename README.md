@@ -10,8 +10,8 @@
 
 ### Installation:
 
-1. Download the Installer from [here.](https://syncade.gg/spt)
-2. Download the Base Mod from Discord under **#Update.**
+1. Download the Core Files from Discord under **#Update.**
+2. Download the Installer from [here.](https://syncade.gg/spt)
 3. Download Latest Update from [here.](https://syncade.gg/zero/update)
 4. Open `Installer.exe` and follow the instructions.
 5. Once complete, navigate to where you just installed SPT.
