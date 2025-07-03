@@ -10,7 +10,7 @@
 
 ### Installation:
 
-1. Download the `Core Files` from Discord under **#update.**
+1. Download the `Core Files` from Discord under **#Downloads.**
 2. Download the Installer from [here.](https://syncade.gg/spt)
 3. Download Latest Update from [here](https://syncade.gg/zero/update) or Discord.
 4. Open `Installer.exe` and follow the instructions.
@@ -18,7 +18,7 @@
 6. **Remove all files** except for `EscapeFromTarkov_Data` folder, and `EscapeFromTarkov.exe.` You should be left with the following:<br><br><img src="https://gitfront.io/r/bansakai/em1m9ZL7VfDC/ZERO/raw/Resources/Remains.png" width="500" /><br><br>
 7. Now, open `EFT ZERO.7z` using 7-Zip and move all included files in place of the ones you deleted. It should look like the structure below:<br><br><img src="https://gitfront.io/r/bansakai/em1m9ZL7VfDC/ZERO/raw/Resources/Structure.png" width="500" /><br><br>
 8. From here, ensure you've downloaded and installed the Latest Update. [Demonstration](https://github.com/bansakai/ZERO?tab=readme-ov-file#updates)
-9. Start `ZERO.exe`
+9. Start `Launch EFT ZERO.bat`
 10. Enter the name that you use in the Discord exactly, click `Register`
 11. If you get a message saying `User Doesn't Exist...` you entered the wrong name. If so, click `No` and ping me on Discord for your login.
 12. Once you're logged in, click the Settings icon, then `Clear Cache` at the top.
