@@ -6,13 +6,13 @@
 
 1. Ensure your Official Tarkov is installed and **up-to-date!**
 2. Install [7-Zip](https://www.7-zip.org/a/7z2409-x64.exe) if you haven't already.
-3. Theres also a Video Tutorial on Discord if needed.
+3. Watch Video Tutorial posted on Discord if needed.
 
 ### Installation:
 
-1. Download the Core Files from Discord under **#Update.**
+1. Download the `Core Files` from Discord under **#update.**
 2. Download the Installer from [here.](https://syncade.gg/spt)
-3. Download Latest Update from [here.](https://syncade.gg/zero/update)
+3. Download Latest Update from [here,](https://syncade.gg/zero/update) or Discord.
 4. Open `Installer.exe` and follow the instructions.
 5. Once complete, navigate to where you just installed SPT.
 6. **Remove all files** except for `EscapeFromTarkov_Data` folder, and `EscapeFromTarkov.exe.` You should be left with the following:<br><br><img src="https://gitfront.io/r/bansakai/em1m9ZL7VfDC/ZERO/raw/Resources/Remains.png" width="500" /><br><br>
