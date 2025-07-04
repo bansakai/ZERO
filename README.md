@@ -15,7 +15,7 @@
 4. Open `Installer.exe` and follow the instructions.
 5. Once complete, navigate to where you just installed SPT.
 6. **Remove all files** except for `EscapeFromTarkov_Data` folder, and `EscapeFromTarkov.exe.` You should be left with the following:<br><br><img src="https://gitfront.io/r/bansakai/em1m9ZL7VfDC/ZERO/raw/Resources/Remains.png" width="500" /><br><br>
-7. Now, open `EFT ZERO.7z` using 7-Zip and move all included files in place of the ones you deleted. It should look like the structure below:<br><br><img src="https://gitfront.io/r/bansakai/em1m9ZL7VfDC/ZERO/raw/Resources/Structure.png" width="500" /><br><br>
+7. Now, open `ZEROMOD.7z` using 7-Zip and move all included files in place of the ones you deleted. It should look like the structure below:<br><br><img src="https://gitfront.io/r/bansakai/em1m9ZL7VfDC/ZERO/raw/Resources/Structure.png" width="500" /><br><br>
 8. From here, ensure you've downloaded and installed the Latest Update. [Demonstration](https://github.com/bansakai/ZERO?tab=readme-ov-file#updates)
 9. Start `Launch EFT ZERO.bat`
 10. Enter the name that you use in the Discord exactly, click `Register`
