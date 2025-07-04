@@ -9,7 +9,7 @@
 
 ### Installation:
 
-1. Download the `Main Files` from Discord under **#Downloads.**
+1. Download the `Master Files` from Discord under **#Downloads.**
 2. Download the Installer from [here.](https://syncade.gg/spt)
 3. Open `Installer.exe` and follow the instructions.
 4. Once complete, navigate to where you just installed SPT.
