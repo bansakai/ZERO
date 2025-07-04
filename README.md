@@ -16,7 +16,7 @@
 5. Once complete, navigate to where you just installed SPT.
 6. **Delete all files** except for `EscapeFromTarkov_Data` folder, and `EscapeFromTarkov.exe.` You should be left with the following:<br><br><img src="https://gitfront.io/r/bansakai/em1m9ZL7VfDC/ZERO/raw/Resources/Remains.png" width="500" /><br><br>
 7. Now, open `ZEROMOD.7z` using 7-Zip and move all included files in place of the ones you deleted. It should look like the structure below:<br><br><img src="https://gitfront.io/r/bansakai/em1m9ZL7VfDC/ZERO/raw/Resources/Structure.png" width="500" /><br><br>
-8. Start `Launch EFT ZERO.bat`
+8. Start `Launch EFT ZERO`
 9. From here, ensure you've downloaded and installed the Latest Update. If not applicable, continue below.
 10. Enter your Discord name exactly how it is written in the Syncade server, then click `Register`
 11. If you get a message saying `User Doesn't Exist...` you entered the wrong name. If so, click `No` and ping me on Discord for your login.
@@ -32,6 +32,6 @@ Now you're ready to play **EFT: ZERO**
 ### Updates:
 
 1. If your client is out-of-date, download the latest update from [here.](https://syncade.gg/zero/update)
-2. Drag entire Patch folder into game location, and open `Apply Update.bat.`
+2. Drag entire Patch folder into game location, and open `Apply Update`
 3. Demonstration:<br><br>
 ![How to Update](https://github.com/bansakai/ZERO/blob/main/Resources/HowToUpdate.gif)
