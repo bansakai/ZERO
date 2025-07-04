@@ -1,4 +1,4 @@
-<img src="https://github.com/bansakai/ZERO/blob/main/Resources/SimpleLogo.png" width="300" /><br><br>
+<img src="https://github.com/bansakai/ZERO/blob/main/Resources/SimpleLogo.png" width="250" /><br><br>
 
 # Install Guide
 <br>
@@ -29,7 +29,7 @@
 ### Welcome to **EFT: ZERO**
 <br><br>
 
-# Update Procedure
+# Update Process
 <br>
 
 1. If your client is out-of-date, find the latest update [here,](https://github.com/bansakai/ZERO/releases/latest/) then click the top link to download.
