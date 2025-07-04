@@ -1,4 +1,4 @@
-<img src="https://github.com/bansakai/ZERO/blob/main/Resources/SmallBannerLogo.png" width="300" /><br><br>
+<img src="https://github.com/bansakai/ZERO/blob/main/Resources/SimpleLogo.png" width="300" /><br><br>
 
 # Install Guide
 <br>
