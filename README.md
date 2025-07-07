@@ -32,7 +32,8 @@
 # Update Process
 <br>
 
-1. If your client is out-of-date, find the latest update [here,](https://github.com/bansakai/ZERO/releases/latest/) then click the top link to download.
+1. If your client is out-of-date, find the latest update [here.](https://github.com/bansakai/ZERO/releases/latest/) Click the top link to download.
 2. Drag entire `Patch 1.X` folder into game location, and double-click `Apply Update`
-3. **Demonstration:**<br><br>
+3. The patch will delete itself when the update completes successfully.
+4. **Demonstration:**<br><br>
 ![How to Update](https://github.com/bansakai/ZERO/blob/main/Resources/Update.gif)
