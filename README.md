@@ -16,7 +16,7 @@
 4. Once SPT is installed, navigate to the installation folder.
 5. Delete all files **except** for `EscapeFromTarkov_Data` folder, and `EscapeFromTarkov.exe.` You will be left with the following:<br><br><img src="https://gitfront.io/r/bansakai/em1m9ZL7VfDC/ZERO/raw/Resources/Remains.png" width="500" /><br><br>
 6. Now, open the Master File called `ZEROMOD.7z` using 7-Zip, and move all of the included files to the location of the ones you deleted above. Your file structure should resemble the screenshot below:<br><br><img src="https://gitfront.io/r/bansakai/em1m9ZL7VfDC/ZERO/raw/Resources/Structure.png" width="500" /><br><br>
-7. Start `Launch EFT ZERO` batch file.
+7. Start `Launch ZERO` batch file.
 8. From here, ensure you've downloaded and installed the latest update. The updater will automatically redirect you as needed.
 9. Once the launcher opens, enter your Discord name exactly how it is written in the Syncade server, then click `Register`
 10. If you get a message saying `User Doesn't Exist...` then you entered the wrong name. If so, click `No` and try again.
